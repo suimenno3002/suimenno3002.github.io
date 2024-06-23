@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://suimenno3002.github.io/posts/hello-world/</loc>
-  </url><url>
     <loc>http://suimenno3002.github.io/categories/</loc>
+  </url><url>
+    <loc>http://suimenno3002.github.io/posts/hello-world/</loc>
   </url><url>
     <loc>http://suimenno3002.github.io/posts/</loc>
   </url><url>
