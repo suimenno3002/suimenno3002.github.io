@@ -13,7 +13,14 @@
     <language>zh-cn</language>
     <atom:link href="http://suimenno3002.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Hello World</title>
+      <link>http://suimenno3002.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://suimenno3002.github.io/posts/hello-world/</guid>
+      <description>你好，Blog。</description>
+    </item>
+    <item>
+      <title>漫谈红包雨方案设计</title>
       <link>http://suimenno3002.github.io/posts/%E6%BC%AB%E8%B0%88%E7%BA%A2%E5%8C%85%E9%9B%A8%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://suimenno3002.github.io/posts/%E6%BC%AB%E8%B0%88%E7%BA%A2%E5%8C%85%E9%9B%A8%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</guid>
@@ -36,13 +43,6 @@
 边缘机房 or 核心机房 机房分为核心机房和边缘机房，流量一般由边缘机房流向核心机房，边缘机房的特点是离用户更近，带宽承载能力更强，基础设施建设相对不完善。
 选择流量终结在边缘机房的原因可能是：
 极高稳定性和延迟要求 不希望超高流量打到核心机房影响核心业务 边缘机房到核心机房的带宽建设不足，可能无法承载超高流量 物理机 or 容器 在极端性能敏感或极致服务设计的情况下可以使用物理机，物理机的好处是：</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://suimenno3002.github.io/posts/hello-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://suimenno3002.github.io/posts/hello-world/</guid>
-      <description>你好，Blog。</description>
     </item>
   </channel>
 </rss>
