@@ -2,13 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://suimenno3002.github.io/posts/25.04-%E6%97%A5%E6%9C%AC%E8%87%AA%E7%94%B1%E8%A1%8C-day-1-%E6%96%B0%E5%AE%BF/</loc>
-  </url><url>
     <loc>http://suimenno3002.github.io/posts/writing/blog/post/25.04-%E6%97%A5%E6%9C%AC%E8%87%AA%E7%94%B1%E8%A1%8C-day-1-%E6%96%B0%E5%AE%BF/</loc>
   </url><url>
     <loc>http://suimenno3002.github.io/categories/</loc>
-  </url><url>
-    <loc>http://suimenno3002.github.io/posts/hello-world/</loc>
   </url><url>
     <loc>http://suimenno3002.github.io/posts/writing/blog/post/hello-world/</loc>
   </url><url>
@@ -19,7 +15,5 @@
     <loc>http://suimenno3002.github.io/tags/</loc>
   </url><url>
     <loc>http://suimenno3002.github.io/posts/writing/blog/post/%E6%BC%AB%E8%B0%88%E7%BA%A2%E5%8C%85%E9%9B%A8%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</loc>
-  </url><url>
-    <loc>http://suimenno3002.github.io/posts/%E6%BC%AB%E8%B0%88%E7%BA%A2%E5%8C%85%E9%9B%A8%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1/</loc>
   </url>
 </urlset>
